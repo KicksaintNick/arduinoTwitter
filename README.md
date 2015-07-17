@@ -11,6 +11,6 @@ Using PySerial for communication to Arduino from Python
 ![Basic LED setup with Arduino Uno](http://nickbester.com/content/images/2015/07/Arduino-Sketch.svg)
 
 ### More information avaiable on my website
-Ensure your Arduino board is setup correctly. A guide for this is available on my website [Nickbester.com](http://nickbester.com/send-commands-to-arduino-using-python-from-the-twitter-stream-api/)
+[Nickbester.com](http://nickbester.com/send-commands-to-arduino-using-python-from-the-twitter-stream-api/)
 
 Have fun
