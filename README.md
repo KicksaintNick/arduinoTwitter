@@ -7,5 +7,6 @@ Open the Python script and replace Twitter tokens and secrets with your own Twit
 Edit the Track string to any string desired
 
 Ensure your Arduino board is setup correctly. A guide for this is available on my website [Nickbester.com](http://nickbester.com/send-commands-to-arduino-using-python-from-the-twitter-stream-api/)
+![Basic LED setup with Arduino Uno](/content/images/2015/07/Arduino-Sketch.svg)
 
 Have fun
